@@ -9,8 +9,11 @@
 | Apple 芯片（arm64） | `HappyWork-<版本>-macos-arm64.dmg` |
 | Intel（x86_64） | `HappyWork-<版本>-macos-x86_64.dmg` |
 | Linux（x86_64） | `HappyWork-<版本>-linux-x86_64.deb` |
+| Windows（x86_64） | `HappyWork-<版本>-windows-x86_64.exe` |
 
-打开 [最新版本](https://github.com/wangwanjie/HappyWork-Distribution/releases/latest) 选择与 Mac 架构对应的 DMG。发布包经过 Developer ID 签名与 Apple 公证。
+打开 [最新版本](https://github.com/wangwanjie/HappyWork-Distribution/releases/latest) 选择对应系统与架构的安装包。macOS DMG 经过 Developer ID 签名与 Apple 公证。
+
+Linux 提供独立包名的交互式客户端；Windows 提供未签名的便携 EXE，启动时可能出现 SmartScreen 提示。各平台的具体限制见对应版本的发布说明。
 
 ## 在线更新
 
