@@ -8,6 +8,7 @@
 | --- | --- |
 | Apple 芯片（arm64） | `HappyWork-<版本>-macos-arm64.dmg` |
 | Intel（x86_64） | `HappyWork-<版本>-macos-x86_64.dmg` |
+| Linux（x86_64） | `HappyWork-<版本>-linux-x86_64.deb` |
 
 打开 [最新版本](https://github.com/wangwanjie/HappyWork-Distribution/releases/latest) 选择与 Mac 架构对应的 DMG。发布包经过 Developer ID 签名与 Apple 公证。
 
